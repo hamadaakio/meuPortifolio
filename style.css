@@ -1,0 +1,19 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+header {
+    background-image: url('https://example.com/marvel-bg.jpg');
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+.card img {
+    height: 300px;
+    object-fit: cover;
+}
